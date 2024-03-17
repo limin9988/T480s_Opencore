@@ -2130,7 +2130,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 darkwake=0 bpr_probedelay=100 bpr_initialdelay=300 bpr_postresetdelay=300 -v alcid=11</string>
+				<string>keepsyms=1 darkwake=0 bpr_probedelay=100 bpr_initialdelay=300 bpr_postresetdelay=300 alcid=11</string>
 				<key>csr-active-config</key>
 				<data>7w8AAA==</data>
 				<key>prev-lang:kbd</key>
